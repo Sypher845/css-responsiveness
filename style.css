@@ -41,7 +41,7 @@ footer {
 .right{
   float: right;
 }
-@media (max-width: 600px){
+@media (max-width: 680px){
   .card{
     display: block;
     width: 100%;
